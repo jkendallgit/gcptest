@@ -1,4 +1,4 @@
-from flask import Flask , request
+from flask import Flask, request
 from emoji import emojize
 
 app = Flask(__name__)
